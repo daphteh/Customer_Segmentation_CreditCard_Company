@@ -9,8 +9,8 @@ In this project, we analyzed the data for 8400 individuals from a credit card co
 #### The Team ####
 _contributed equally & enthusiastically_ 💪
 
-* Roja Harder 🙋‍♀️
-* Daphne Teh 🙋‍♀️
+* 🙋‍♀️ Roja Harder 
+* 🙋‍♀️ Daphne Teh
 
 # Methodology
 
@@ -30,7 +30,7 @@ _contributed equally & enthusiastically_ 💪
 </details>
 
 <details>
-<summary> Step 3: Select the number of customer segments (clusters) </summary>
+<summary> Step 3: Determine the number of customer segments (clusters) </summary>
   <br>
   <p>   Use the Elbow method & Silhouette Scores</p>
   <p>   Leverage different methods for visualization & dimensionality reduction (TSANE & PCA)</p>
