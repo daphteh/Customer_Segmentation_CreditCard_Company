@@ -56,4 +56,4 @@ _contributed equally & enthusiastically_ 💪
 </details>
 
 # Final Results
-<img width="1274" alt="Summary_n_Recommendations" src="https://github.com/daphteh/Customer_Segmentation_CreditCard_Company/blob/831f753ea51994d73b7265ccb26a3da66dc0191f/Summary_n_Recommendations.png">
+<img width="1274" alt="Summary_n_Recommendations" src="https://github.com/daphteh/Customer_Segmentation_CreditCard_Company/blob/77896663197562f725b460b6a4e34dc077fd63e8/Report_Images/Summary_n_Recommendations.png">
