@@ -6,7 +6,7 @@ In this project, we analyzed the data for 8400 individuals from a credit card co
 * Exploratory data analysis
 * Data visualization
 
-# The Team 
+#### The Team ####
 _contributed equally & enthusiastically_ 💪
 
 * 🙋‍♀️ Roja Harder (Ajnorha)
