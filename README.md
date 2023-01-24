@@ -23,7 +23,7 @@ _contributed equally & enthusiastically_ 💪
 </details>
 
 <details>   
-<summary> Step 2: Process & Transform the data </summary>  
+<summary> Step 2: Process & transform the data </summary>  
   <br>
   <p>   Impute missing values</p>
   <p>   Log transform the features</p>
