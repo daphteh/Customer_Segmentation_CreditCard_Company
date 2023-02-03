@@ -1,4 +1,4 @@
-# Customer_Segmentation_CreditCard_Company
+# Customer Segmentation Credit Card Company
 In this project, we analyzed the data for 8400 individuals from a credit card company to make recommendations on how to target different customer segments.
 
 #### Methods Used ####
