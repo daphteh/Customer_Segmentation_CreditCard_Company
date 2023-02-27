@@ -9,7 +9,7 @@ In this project, we analyzed the data for 8400 individuals from a credit card co
 #### The Team ####
 _contributed equally & enthusiastically_ 💪
 
-* 🙋‍♀️ [Roja Harder](https://github.com/Ajnorha)
+* 🙋‍♀️ [Ronja Harder](https://github.com/Ajnorha)
 * 🙋‍♀️ [Daphne Teh](https://github.com/Daphteh)
 
 # Methodology
